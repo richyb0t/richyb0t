@@ -20,7 +20,7 @@
 - 🚀 I have experience in **C++, C#, PHP, JavaScript, HTML, CSS, MySQL, and .NET**.  
 - 🛠️ Developed projects such as a **Hospital Appointment Management System**, **Routine Recommendation Website**, and a **Discord Bot with advanced admin tools**.  
 - 🌱 Always learning and improving my skills through personal and collaborative projects.  
-- 🤝 I’m currently open for a new **job opportunity** — [MY RESUME](#).  
+- 🤝 I’m currently open for a new **job opportunity** — [MY RESUME](./CV_RicardoHernándezCastro.pdf).  
 
 <br>
 
