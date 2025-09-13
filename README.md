@@ -75,13 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richyb0t&langs_count=6&show_icons=true&locale=en&theme=tokyonight" alt="richyb0t" height="200px"/>
 </p>
 
----
-
-## 🐍 A Snake Eating my Contributions Graph
-<p align = "center">
-	<img src = "https://github.com/richyb0t/richyb0t/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
-
 
 
 
